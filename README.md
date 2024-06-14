@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mdmuzahid07&label=Profile%20views&color=0e75b6&style=flat" alt="mdmuzahid07" /> </p>
 
-<p align="left" style="margin-left:10px;margin-right:10px"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mdmuzahid07" alt="mdmuzahid07" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mdmuzahid07" alt="mdmuzahid07" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/md_muzahid_dev" target="blank"><img src="https://img.shields.io/twitter/follow/md_muzahid_dev?logo=twitter&style=for-the-badge" alt="md_muzahid_dev" /></a> </p>
 
