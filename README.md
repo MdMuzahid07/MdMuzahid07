@@ -71,6 +71,7 @@ I am passionate about leveraging modern technologies to build scalable web appli
 
 ### GitHub Stats
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=MdMuzahid07&show_icons=true&theme=radical)
+[![GitHub Streak](https://streak-stats.demolab.com?user=MdMuzahid07&theme=dark)](https://git.io/streak-stats)
 
 ### Connect with Me
 - **Email**: [mdmuzahid.dev@gmail.com](mailto:mdmuzahid.dev@gmail.com)
