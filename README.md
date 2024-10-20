@@ -1,17 +1,15 @@
 [![Header](https://res.cloudinary.com/dymo0iyee/image/upload/v1729405412/github-header-image_rlgpox.png "Header")](https://mdmuzahid.vercel.app/)
-<h1 align="center">Welcome! I'm Md. Muzahid 👋</h1>
-<h3 align="center">MERN-Stack Developer | Passionate About Building Scalable Web Applications</h3>
+<h1 align="left">Welcome! to my Github Profile</h1>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=mdmuzahid07&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
   <a href="https://twitter.com/md_muzahid_dev" target="_blank"><img src="https://img.shields.io/twitter/follow/md_muzahid_dev?logo=twitter&style=for-the-badge" alt="Twitter Follow" /></a>
 </p>
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
+
+ [ <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=mdmuzahid07" alt="GitHub Trophies" />
-  </a>
-</p>
+  </a>](https://github-profile-trophy.vercel.app/?username=ryo-ma&column=3&margin-w=15&margin-h=15)
 
 <p align="center">
   <a href="https://mdmuzahid.dev/" target="_blank"><strong>Explore My Work »</strong></a>
