@@ -70,11 +70,12 @@ I am passionate about leveraging modern technologies to build scalable web appli
 ---
 
 ### GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=MdMuzahid07&show_icons=true&theme=radical)
 
 ### Connect with Me
 - **Email**: [mdmuzahid.dev@gmail.com](mailto:mdmuzahid.dev@gmail.com)
 - **LinkedIn**: [https://www.linkedin.com/in/md-muzahid-840347220/](https://www.linkedin.com/in/md-muzahid-840347220/)
 - **Twitter**: [https://x.com/md_muzahid_dev](https://x.com/md_muzahid_dev)
+- **My Portfolio Website**: [https://mdmuzahid.vercel.app/](https://mdmuzahid.vercel.app/)
 
 ---
