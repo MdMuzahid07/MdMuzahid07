@@ -1,13 +1,11 @@
-[![Header]( "Header")](https://mdmuzahid.vercel.app/)
+[![Header](https://res.cloudinary.com/dymo0iyee/image/upload/v1729405412/github-header-image_rlgpox.png "Header")](https://mdmuzahid.vercel.app/)
 
 
-![Banner]([https://your-banner-image-link.com](https://res.cloudinary.com/dymo0iyee/image/upload/v1729405412/github-header-image_rlgpox.png))
-
-# Muzahidul Islam
+# Md. Muzahid
 
 **Full-Stack MERN Developer | Crafting Scalable & Secure Web Applications**
 
-I specialize in crafting robust, secure, and visually appealing web applications using modern technologies like the MERN Stack. With a strong foundation in both front-end and back-end development, I deliver high-performance solutions tailored to business needs.
+I craft robust, secure, visually appealing web applications using modern technologies like the MERN Stack. With a strong front-end and back-end development foundation, I deliver high-performance solutions tailored to business needs.
 
 ---
 
@@ -75,8 +73,8 @@ I am passionate about leveraging modern technologies to build scalable web appli
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
 
 ### Connect with Me
-- **Email**: [youremail@example.com](mailto:youremail@example.com)
-- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/yourprofile)
-- **Twitter**: [@YourTwitterHandle](https://twitter.com/yourhandle)
+- **Email**: [mdmuzahid.dev@gmail.com](mailto:mdmuzahid.dev@gmail.com)
+- **LinkedIn**: [https://www.linkedin.com/in/md-muzahid-840347220/](https://www.linkedin.com/in/md-muzahid-840347220/)
+- **Twitter**: [https://x.com/md_muzahid_dev](https://x.com/md_muzahid_dev)
 
 ---
