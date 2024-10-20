@@ -3,7 +3,7 @@
 
 # 🚀 Welcome to my GitHub Profile
 
-**Full-Stack MERN Developer | Crafting Scalable & Secure Web Applications**
+**MERN-Stack Developer | Crafting Scalable & Secure Web Applications**
 
 I craft robust, secure, visually appealing web applications using modern technologies like the MERN Stack. With a strong front-end and back-end development foundation, I deliver high-performance solutions tailored to business needs.
 
@@ -14,7 +14,7 @@ I am passionate about leveraging modern technologies to build scalable web appli
 
 ---
 
-### Core Skills
+### Skills
 
 #### Languages:
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
