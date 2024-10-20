@@ -20,7 +20,7 @@
 
 ### 🚀 About Me
 
-I'm a dedicated MERN-Stack Developer from Bangladesh, passionate about crafting robust and scalable web applications. With a strong focus on clean, efficient code and user-friendly interfaces, I enjoy tackling complex problems and continuously improving my skills.
+I specialize in developing robust, secure, and visually engaging web applications using modern technologies like the MERN Stack. With expertise in both front-end and back-end development, I create high-performance solutions tailored to meet specific business needs, ensuring efficiency, scalability, and a seamless user experience.
 
 - 👨‍💻 Explore all of my projects at [mdmuzahid.dev](https://mdmuzahid.dev/)
 - 📫 Reach out to me via email: **mdmuzahid.dev@gmail.com**
