@@ -30,7 +30,7 @@ const muzahid = {
 };
 ```
 
-I'm passionate about crafting **robust, scalable web applications** that solve real-world problems. With expertise in both MERN and PERN stacks, I bring ideas to life through clean, maintainable code and thoughtful architecture.
+I'm passionate about crafting **robust, scalable web applications** that solve real-world problems. With expertise in MERN stack, I bring ideas to life through clean, maintainable code and thoughtful architecture.
 
 ### 🎯 Core Competencies
 
