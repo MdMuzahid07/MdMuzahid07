@@ -1,58 +1,98 @@
-[![Header](https://res.cloudinary.com/dymo0iyee/image/upload/v1729405412/github-header-image_rlgpox.png "Header")](https://mdmuzahid.vercel.app/)
-
-
-# 🚀 Welcome to my GitHub Profile
-
-**MERN-Stack Developer | Crafting Scalable & Secure Web Applications**
-
-I craft robust, secure, visually appealing web applications using modern technologies like the MERN Stack. With a strong front-end and back-end development foundation, I deliver high-performance solutions tailored to business needs.
+<div align="center">
+  
+  [![Header](https://res.cloudinary.com/dymo0iyee/image/upload/v1729405412/github-header-image_rlgpox.png)](https://mdmuzahid.vercel.app/)
+  
+  ### Full-Stack Developer | MERN-Stack Specialist
+  
+  <p align="center">
+    Building production-grade web applications with modern JavaScript technologies<br/>
+    Specialized in scalable architectures, clean code, and exceptional user experiences
+  </p>
+  
+  [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://mdmuzahid.vercel.app/)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-muzahid-840347220/)
+  [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/md_muzahid_dev)
+  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mdmuzahid.dev@gmail.com)
+  
+</div>
 
 ---
+## 👨‍💻 About Me
 
-### About Me
-I am passionate about leveraging modern technologies to build scalable web applications that deliver great user experiences. I focus on clean, maintainable code and efficient development processes.
+```typescript
+const muzahid = {
+  location: "Dhaka, Bangladesh",
+  role: "Full-Stack Developer",
+  expertise: ["MERN Stack"],
+  focus: ["Performance Optimization", "Scalable Architecture", "DX & UX"],
+  currentlyLearning: ["System Design", "Docker", "CI/CD", "Microservice"],
+  availableFor: "Freelance projects & Full-time opportunities."
+};
+```
+
+I'm passionate about crafting **robust, scalable web applications** that solve real-world problems. With expertise in both MERN and PERN stacks, I bring ideas to life through clean, maintainable code and thoughtful architecture.
+
+### 🎯 Core Competencies
+
+- **Full-Stack Development**: End-to-end application development from concept to deployment
+- **Modern Frontend**: Building responsive, accessible, and performant user interfaces
+- **Backend Architecture**: Designing RESTful APIs with security, scalability, and maintainability in mind
+- **Database Design**: Optimizing data structures for both SQL and NoSQL databases
+- **TypeScript Power User**: Writing type-safe code that prevents bugs and improves developer experience
 
 ---
 
 ### Skills
 
-#### Languages:
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
-#### Front-End Libraries & Frameworks:
-![ReactJS](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Vite.js](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![Redux Toolkit](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Styled Components](https://img.shields.io/badge/Styled%20Components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
-![NextUI](https://img.shields.io/badge/NextUI-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![DaisyUI](https://img.shields.io/badge/DaisyUI-1FB2A6?style=for-the-badge&logo=daisyui&logoColor=white)
-![Shadcn UI](https://img.shields.io/badge/Shadcn%20UI-000000?style=for-the-badge&logo=shadcnui&logoColor=white)
+## 🛠️ Technology Stack
 
-#### Back-End Libraries & Frameworks:
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
-![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongodb&logoColor=white)
-![NextAuth](https://img.shields.io/badge/NextAuth-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Nodemailer](https://img.shields.io/badge/Nodemailer-0a0a0a?style=for-the-badge&logo=nodedotjs&logoColor=white)
+### Frontend Development
 
-#### Database:
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-764ABC?style=flat&logo=redux&logoColor=white)
+![RTK Query](https://img.shields.io/badge/RTK_Query-764ABC?style=flat&logo=redux&logoColor=white)
+![TanStack Query](https://img.shields.io/badge/TanStack_Query-FF4154?style=flat&logo=reactquery&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=tailwindcss&logoColor=white)
+![Shadcn UI](https://img.shields.io/badge/Shadcn_UI-000000?style=flat&logo=shadcnui&logoColor=white)
+![MUI](https://img.shields.io/badge/MUI-007FFF?style=flat&logo=mui&logoColor=white)
+![DaisyUI](https://img.shields.io/badge/DaisyUI-1FB2A6?style=flat&logo=daisyui&logoColor=white)
+![Styled Components](https://img.shields.io/badge/Styled_Components-DB7093?style=flat&logo=styledcomponents&logoColor=white)
+![React Hook Form](https://img.shields.io/badge/React_Hook_Form-EC5990?style=flat&logo=reacthookform&logoColor=white)
+![Formik](https://img.shields.io/badge/Formik-2563EB?style=flat&logo=formik&logoColor=white)
+![Zod](https://img.shields.io/badge/Zod-3E67B1?style=flat&logo=zod&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=flat&logo=framer&logoColor=white)
+![Swiper](https://img.shields.io/badge/Swiper-6332F6?style=flat&logo=swiper&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
 
-#### Tools & Version Control:
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![VSCode](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![nvm](https://img.shields.io/badge/nvm-3C873A?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
-![Yarn](https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white)
-![pnpm](https://img.shields.io/badge/pnpm-F69220?style=for-the-badge&logo=pnpm&logoColor=white)
+### Backend Development
+
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=flat&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
+![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=flat&logo=mongodb&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat&logo=jsonwebtokens&logoColor=white)
+![NextAuth](https://img.shields.io/badge/NextAuth-000000?style=flat&logo=nextdotjs&logoColor=white)
+![Passport.js](https://img.shields.io/badge/Passport.js-34E27A?style=flat&logo=passport&logoColor=black)
+![Nodemailer](https://img.shields.io/badge/Nodemailer-0A0A0A?style=flat&logo=gmail&logoColor=white)
+
+### DevOps & Tools
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+![npm](https://img.shields.io/badge/npm-CB3837?style=flat&logo=npm&logoColor=white)
+![Yarn](https://img.shields.io/badge/Yarn-2C8EBB?style=flat&logo=yarn&logoColor=white)
+![pnpm](https://img.shields.io/badge/pnpm-F69220?style=flat&logo=pnpm&logoColor=white)
 
 #### OS & Environments:
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
@@ -60,19 +100,75 @@ I am passionate about leveraging modern technologies to build scalable web appli
 
 ---
 
-### What I Bring
-- **Full-Stack Expertise**: Strong command over front-end and back-end technologies, ensuring seamless integration and efficient performance.
-- **Efficient Development**: I prioritize clean, maintainable code that scales, using TypeScript for type safety and error prevention.
-- **State Management & API Handling**: Expertise in managing complex states with Redux Toolkit, along with robust API management using Redux RTK Query and building RESTful APIs for seamless data communication.
-- **UI/UX Focus**: Passionate about delivering responsive, accessible, and visually cohesive user experiences using modern frameworks.
-- **Secure & Scalable**: I prioritize security with JWT, NextAuth, and cookies for authentication and scalable back-end architectures. I also handle email notifications using Nodemailer.
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MdMuzahid07&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MdMuzahid07&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+  
+</div>
+
+<div align="center">
+  
+  [![GitHub Streak](https://streak-stats.demolab.com?user=MdMuzahid07&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF)](https://git.io/streak-stats)
+  
+</div>
+
+<div align="center">
+  
+  ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MdMuzahid07&custom_title=Contribution%20Graph&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area_color=58A6FF&area=true&hide_border=true)
+  
+</div>
 
 ---
 
-### GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=MdMuzahid07&show_icons=true&theme=radical)
-[![GitHub Streak](https://streak-stats.demolab.com?user=MdMuzahid07&theme=dark)](https://git.io/streak-stats)
+## 🏆 What Sets Me Apart
 
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <h3>🎯 Quality First</h3>
+      <p>Writing clean, maintainable, and well-documented code that stands the test of time</p>
+    </td>
+    <td align="center" width="33%">
+      <h3>⚡ Performance</h3>
+      <p>Optimizing for speed and efficiency without compromising functionality</p>
+    </td>
+    <td align="center" width="33%">
+      <h3>🔒 Security</h3>
+      <p>Implementing robust security measures and following industry best practices</p>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="33%">
+      <h3>📱 Responsive Design</h3>
+      <p>Creating seamless experiences across all devices and screen sizes</p>
+    </td>
+    <td align="center" width="33%">
+      <h3>🔄 Continuous Learning</h3>
+      <p>Staying updated with the latest technologies and industry trends</p>
+    </td>
+    <td align="center" width="33%">
+      <h3>🤝 Collaboration</h3>
+      <p>Working effectively in teams and communicating technical concepts clearly</p>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 💼 Services I Offer
+
+- **🌐 Full-Stack Web Development** - Complete web applications from frontend to backend
+- **⚛️ React/Next.js Development** - Modern, performant single-page and server-side rendered applications
+- **🔧 API Development & Integration** - RESTful APIs with proper authentication and documentation
+- **🗄️ Database Design & Optimization** - Efficient data modeling for both SQL and NoSQL databases
+- **🎨 UI/UX Implementation** - Converting designs into pixel-perfect, responsive interfaces
+- **🔍 Code Review & Consultation** - Improving code quality and architecture decisions
+
+---
 ### Connect with Me
 - **Email**: [mdmuzahid.dev@gmail.com](mailto:mdmuzahid.dev@gmail.com)
 - **LinkedIn**: [https://www.linkedin.com/in/md-muzahid-840347220/](https://www.linkedin.com/in/md-muzahid-840347220/)
